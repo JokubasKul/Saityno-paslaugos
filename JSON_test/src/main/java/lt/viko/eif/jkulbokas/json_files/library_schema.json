@@ -1,0 +1,43 @@
+{
+  "type": "object",
+  "required": ["library"],
+  "properties": {
+    "library": {
+      "type": "object",
+      "required": ["shelf"],
+      "properties": {
+        "shelf": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["category", "books"],
+            "properties": {
+              "category": {
+                "type": "string"
+              },
+              "books": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": ["title", "release_year", "author"],
+                  "properties": {
+                    "title": {
+                      "type": "string"
+                    },
+                    "release_year": {
+                      "type": "integer",
+                      "minimum": 0
+                    },
+                    "author": {
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

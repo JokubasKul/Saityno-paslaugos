@@ -1,0 +1,71 @@
+{
+  "library": {
+    "shelf": [
+      {
+        "category": "Science fiction",
+        "books": [
+          {
+            "title": "Leviathan Wakes",
+            "release_year": 2015,
+            "author": "James S. A. Corey"
+          },
+          {
+            "title": "Cibola burn",
+            "release_year": 2019,
+            "author": "James S. A. Corey"
+          },
+          {
+            "title": "Ghosts of Onyx",
+            "release_year": 2008,
+            "author": "Eric Nylund"
+          },
+          {
+            "title": "Mortal Dictata",
+            "release_year": 2014,
+            "author": "Karen Traviss"
+          }
+        ]
+      },
+      {
+        "category": "History",
+        "books": [
+          {
+            "title": "The Holy Roman Empire: A thousand years of Europe's history",
+            "release_year": 2015,
+            "author": "Peter H. Wilson"
+          },
+          {
+            "title": "SPQR",
+            "release_year": 2012,
+            "author": "Mary Beard"
+          },
+          {
+            "title": "Europe's Tragedy",
+            "release_year": 2009,
+            "author": "Peter H. Wilson"
+          }
+        ]
+      },
+      {
+        "category": "Fantasy",
+        "books": [
+          {
+            "title": "The Fellowship of the Ring",
+            "release_year": 1954,
+            "author": "J. R. R. Tolkien"
+          },
+          {
+            "title": "The Two Towers",
+            "release_year": 1954,
+            "author": "J. R. R. Tolkien"
+          },
+          {
+            "title": "The Return of the King",
+            "release_year": 1960,
+            "author": "J. R. R. Tolkien"
+          }
+        ]
+      }
+    ]
+  }
+}
