@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library>
+    <shelf>
+        <category>Science fiction</category>
+        <books>
+            <book>
+                <title>Leviathan Wakes</title>
+                <release_year>2015</release_year>
+                <author>James S. A. Corey</author>
+            </book>
+            <book>
+                <title>Caliban's War</title>
+                <release_year>2016</release_year>
+                <author>James S. A. Corey</author>
+            </book>
+            <book>
+                <title>Abaddon's Gate</title>
+                <release_year>2017</release_year>
+                <author>James S. A. Corey</author>
+            </book>
+            <book>
+                <title>Cibola burn</title>
+                <release_year>2019</release_year>
+                <author>James S. A. Corey</author>
+            </book>
+            <book>
+                <title>Ghosts of Onyx</title>
+                <release_year>2008</release_year>
+                <author>Eric Nylund</author>
+            </book>
+            <book>
+                <title>Mortal Dictata</title>
+                <release_year>2014</release_year>
+                <author>Karen Traviss</author>
+            </book>
+        </books>
+    </shelf>
+    <shelf>
+        <category>History</category>
+        <books>
+            <book>
+                <title>The Holy Roman Empire: A thousand years of Europe's history</title>
+                <release_year>2015</release_year>
+                <author>Peter H. Wilson</author>
+            </book>
+            <book>
+                <title>SPQR</title>
+                <release_year>2012</release_year>
+                <author>Mary Beard</author>
+            </book>
+            <book>
+                <title>Europe's Tragedy</title>
+                <release_year>2009</release_year>
+                <author>Peter H. Wilson</author>
+            </book>
+        </books>
+    </shelf>
+    <shelf>
+        <category>Fantasy</category>
+        <books>
+            <book>
+                <title>The Fellowship of the Ring</title>
+                <release_year>1954</release_year>
+                <author>J. R. R. Tolkien</author>
+            </book>
+            <book>
+                <title>The Two Towers</title>
+                <release_year>1954</release_year>
+                <author>J. R. R. Tolkien</author>
+            </book>
+            <book>
+                <title>The Return of the King</title>
+                <release_year>1960</release_year>
+                <author>J. R. R. Tolkien</author>
+            </book>
+            <book>
+                <title>Fire and Blood</title>
+                <release_year>2018</release_year>
+                <author>George R. R. Martin</author>
+            </book>
+            <book>
+                <title>Sword of Destiny</title>
+                <release_year>1993</release_year>
+                <author>Andrzej Sapkowski</author>
+            </book>
+        </books>
+    </shelf>
+</library>
