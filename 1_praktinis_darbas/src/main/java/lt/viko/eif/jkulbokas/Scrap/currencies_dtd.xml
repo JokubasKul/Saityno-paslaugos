@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE currencies [
+<!ELEMENT currencies (currency+)>
+<!ELEMENT currency (country, name)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+]>
+
+<currencies>
+	<currency>
+		<country>Lithuania</country>
+		<name>Euro</name>
+	</currency>
+	<currency>
+		<country>Australia</country>
+		<name>Australian dollar</name>
+	</currency>
+	<currency>
+		<country>Iceland</country>
+		<name>Icelandic króna</name>
+	</currency>
+	<currency>
+		<country>Indonesia</country>
+		<name>Indonesian rupiah</name>
+	</currency>
+	<currency>
+		<country>Hungary</country>
+		<name>Hungarian forint</name>
+	</currency>
+	<currency>
+		<country>Ireland</country>
+		<name>Euro</name>
+	</currency>
+	<currency>
+		<country>South Korea</country>
+		<name>South Korean won</name>
+	</currency>
+	<currency>
+		<country>Liechtenstein</country>
+		<name>Swiss franc</name>
+	</currency>
+	<currency>
+		<country>Albania</country>
+		<name>Albanian lek</name>
+	</currency>
+	<currency>
+		<country>United Kingdom</country>
+		<name>Sterling</name>
+	</currency>
+</currencies>
